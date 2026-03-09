@@ -1,6 +1,6 @@
 #input of 2 numbers
-number1 = int(input("Enter a number: "))
-number2 = int(input("Enter a second number: "))
+number1 = float(input("Enter a number: "))
+number2 = float(input("Enter a second number: "))
 
 #check the the bigger number in number1 and number2
 if number1 > number2:

@@ -1,6 +1,6 @@
 #input of 2 numbers
-number = int(input("Enter a number: "))
-number += int(input("Enter a second number: "))
+number = float(input("Enter a number: "))
+number += float(input("Enter a second number: "))
 
 #showing the result
 print(number)
