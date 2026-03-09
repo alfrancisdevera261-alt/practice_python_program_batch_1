@@ -2,3 +2,5 @@
 number = int(input("Enter a number: "))
 number += int(input("Enter a second number: "))
 
+#showing the result
+print(number)
