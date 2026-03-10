@@ -1,5 +1,3 @@
-even_numbers = 0
 for i in range(101):
     if i % 2 == 0:
-        even_numbers += 1
-print(even_numbers)
+        print(i)
